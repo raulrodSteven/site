@@ -1,0 +1,57 @@
+{
+  "carousel": [
+    { "image": "assets/images/foto1.jpg", "caption": "Budapest" },
+    { "image": "assets/images/foto2.jpg", "caption": "North Caroline" },
+    { "image": "assets/images/foto3.jpg", "caption": "EBSD-Fortaleza 2023" },
+    { "image": "assets/images/foto4.jpg", "caption": "PUC-Rio" }
+  ],
+  "research_interests": [
+    "Dynamical Systems",
+    "Ergodic Theory",
+    "Physical Measures",
+    "Heterodimensional Cycles",
+    "Skew Products",
+    "Arc-sine Laws"
+  ],
+  "organization": [
+    {
+      "year": "2024 - Current",
+      "role": "Organizer of the",
+      "title": "Seminário Interinstitucional de Estudantes de Sistemas Dinâmicos (SIES)",
+      "link": "http://mat.puc-rio.br/sies/index.php",
+      "description": "Joint initiative by graduate students from PUC-Rio, IMPA, UFRJ, and UFF."
+    }
+  ],
+  "publications": [],
+  "preprints": [
+    {
+      "title": "Historical behavior of skew products and arcsine laws",
+      "authors": "with Pablo G. Barrientos",
+      "journal": "Preprint (arXiv)",
+      "year": "2025",
+      "link": "https://arxiv.org/abs/2501.00266",
+      "pdf": "assets/pdfs/preprint2025.pdf",
+      "has_pdf": true
+    }
+  ],
+  "other_writings": [
+    {
+      "year": "2024",
+      "title": "Statistical behavior of skew products: Schwarzian derivative and arc-sine laws",
+      "authors": "Master's Thesis",
+      "journal": "Pontifical Catholic University of Rio de Janeiro (PUC-Rio)",
+      "link": "",
+      "pdf": "https://www.maxwell.vrac.puc-rio.br/66996/66996.PDF",
+      "has_pdf": true
+    },
+    {
+      "year": "2025",
+      "title": "Último problema de Takens: abundancia de comportamiento histórico",
+      "authors": "Undergraduate Thesis",
+      "journal": "(In Spanish)",
+      "link": "",
+      "pdf": "assets/pdfs/tesis_licenciatura.pdf",
+      "has_pdf": true
+    }
+  ]
+}
