@@ -1,21 +1,17 @@
 #!/bin/bash
 echo "========================================"
-echo "   🚀 ACTUALIZANDO TU SITIO WEB...      "
+echo "   🚀 ACTUALIZANDO SITIO WEB...         "
 echo "========================================"
 
-# Borrar el archivo viejo si existe (limpieza)
-rm -f publications.html
-
-# Agregar cambios
+# 1. Agregar todos los cambios
 git add .
 
-# Guardar cambios
-git commit -m "Actualización: $(date)"
+# 2. Guardar con fecha
+git commit -m "Update desde KDE Neon: $(date)"
 
-# Subir a GitHub
+# 3. Subir a GitHub
 git push
 
 echo "========================================"
 echo "   ✅ ¡LISTO! Cambios subidos.          "
-echo "   🌐 Tu web se actualizará en breve.   "
 echo "========================================"
