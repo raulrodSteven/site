@@ -7,7 +7,7 @@ echo "========================================"
 git add .
 
 # 2. Guardar con fecha
-git commit -m "Update desde KDE Neon: $(date)"
+git commit -m "UpdateCO_Pl: $(date)"
 
 # 3. Subir a GitHub
 git push
