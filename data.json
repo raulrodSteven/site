@@ -1,5 +1,7 @@
 {
   "carousel": [
+    { "image": "assets/images/ictp.jpeg", "caption": "ICTP" },
+    { "image": "assets/images/foto0.png", "caption": "Scuola Normale Superiore di Pisa" },
     { "image": "assets/images/foto1.jpg", "caption": "Budapest" },
     { "image": "assets/images/foto2.jpg", "caption": "North Caroline" },
     { "image": "assets/images/foto3.jpg", "caption": "EBSD-Fortaleza 2023" },

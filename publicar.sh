@@ -25,4 +25,3 @@ echo "=== Publicando ==="
 git push origin main
 
 echo "Sitio actualizado correctamente."
-EOF
